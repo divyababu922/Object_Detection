@@ -2,6 +2,12 @@
 To detect the objects in a given image.
 **Language used**
 Python
+
 **Packages used**
 OpenCV
-Output
+
+**Output**
+
+
+**Conclusion**
+Thus the objects were detected.
